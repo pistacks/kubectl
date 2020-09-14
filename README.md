@@ -30,3 +30,7 @@ rpi-06   Ready    <none>   28h   v1.18.8+k3s1
 rpi-07   Ready    <none>   28h   v1.18.8+k3s1
 rpi-05   Ready    master   28h   v1.18.8+k3s1
 ```
+
+## Docker Hub
+
+- [pistacks/kubectl](https://hub.docker.com/r/pistacks/kubectl)
